@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lansky.XUnit.OpenApi", "Lansky.XUnit.OpenApi\Lansky.XUnit.OpenApi.csproj", "{EF0264B3-8AB3-484A-B38A-28828015AB7F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lansky.XUnit.OpenApi.ExampleTest", "Lansky.XUnit.OpenApi.ExampleTest\Lansky.XUnit.OpenApi.ExampleTest.csproj", "{090669FB-F30F-4B81-AC3D-A6EAFD8E061D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF0264B3-8AB3-484A-B38A-28828015AB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0264B3-8AB3-484A-B38A-28828015AB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0264B3-8AB3-484A-B38A-28828015AB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0264B3-8AB3-484A-B38A-28828015AB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{090669FB-F30F-4B81-AC3D-A6EAFD8E061D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090669FB-F30F-4B81-AC3D-A6EAFD8E061D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090669FB-F30F-4B81-AC3D-A6EAFD8E061D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090669FB-F30F-4B81-AC3D-A6EAFD8E061D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B18818F-25EB-44C9-80EE-E1711C0812A2}
+	EndGlobalSection
+EndGlobal
